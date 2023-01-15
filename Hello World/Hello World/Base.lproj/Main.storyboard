@@ -27,6 +27,7 @@
                             <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Button Has Not Been Pressed Yet" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Wdq-0H-aJb">
                                 <rect key="frame" x="15" y="473.66666666666669" width="363" height="25"/>
                                 <constraints>
+                                    <constraint firstAttribute="height" relation="greaterThanOrEqual" constant="25" id="DEe-wx-qyZ"/>
                                     <constraint firstAttribute="height" constant="25" id="LM8-6h-NfH"/>
                                 </constraints>
                                 <fontDescription key="fontDescription" type="system" pointSize="17"/>
@@ -37,9 +38,11 @@
                         <viewLayoutGuide key="safeArea" id="6Tk-OE-BBY"/>
                         <color key="backgroundColor" systemColor="systemBackgroundColor"/>
                         <constraints>
+                            <constraint firstItem="X8h-fh-S6D" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="39Z-1i-b1H"/>
                             <constraint firstItem="X8h-fh-S6D" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="5vj-k3-Gyd"/>
                             <constraint firstItem="X8h-fh-S6D" firstAttribute="centerX" secondItem="8bC-Xf-vdC" secondAttribute="centerX" id="GXb-Sj-9QS"/>
                             <constraint firstItem="Wdq-0H-aJb" firstAttribute="top" secondItem="X8h-fh-S6D" secondAttribute="bottom" constant="30" id="NDj-K8-pVH"/>
+                            <constraint firstItem="X8h-fh-S6D" firstAttribute="centerY" secondItem="8bC-Xf-vdC" secondAttribute="centerY" id="V5C-wV-s8p"/>
                             <constraint firstItem="Wdq-0H-aJb" firstAttribute="leading" secondItem="6Tk-OE-BBY" secondAttribute="leading" constant="15" id="W6m-z4-gjr"/>
                             <constraint firstItem="6Tk-OE-BBY" firstAttribute="trailing" secondItem="Wdq-0H-aJb" secondAttribute="trailing" constant="15" id="n7t-nP-lEY"/>
                         </constraints>
