@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "06C0350E-F230-462C-9E99-278FDE6250DF"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "06FE023A-0423-4AE5-8497-0A085671DD15"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NEUStockApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "getStockPrice(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "06FE023A-0423-4AE5-8497-0A085671DD15 - 6c46c32b660d8e5b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "NEUStockApp.ViewController.getStockPrice(Any) -&gt; ()"
+                  moduleName = "NEUStockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rwang0104/Desktop/INFO6350/NEUStockApp/NEUStockApp/NEUStockApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "944">
+               </Location>
+               <Location
+                  uuid = "06FE023A-0423-4AE5-8497-0A085671DD15 - c3ed61ec935d78f0"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Alamofire.DataResponse&lt;Any, Alamofire.AFError&gt;) -&gt; () in NEUStockApp.ViewController.getStockPrice(Any) -&gt; ()"
+                  moduleName = "NEUStockApp"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/rwang0104/Desktop/INFO6350/NEUStockApp/NEUStockApp/NEUStockApp/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "30"
+                  endingLineNumber = "30"
+                  offsetFromSymbolStart = "324">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "CCD5B65E-7DC8-4E59-B45F-540007E6BD6C"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "NEUStockApp/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "31"
+            endingLineNumber = "31"
+            landmarkName = "getStockPrice(_:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
