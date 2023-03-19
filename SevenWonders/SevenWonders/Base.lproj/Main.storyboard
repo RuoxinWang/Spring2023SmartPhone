@@ -46,6 +46,7 @@
                     </view>
                     <navigationItem key="navigationItem" title="Seven Wonders" id="7dX-hC-qHa"/>
                     <connections>
+                        <outlet property="tblView" destination="UFj-XT-KmH" id="mMe-Nh-E0e"/>
                         <segue destination="JTK-TS-3BX" kind="show" identifier="segueDetail" id="mks-G8-xHQ"/>
                     </connections>
                 </viewController>

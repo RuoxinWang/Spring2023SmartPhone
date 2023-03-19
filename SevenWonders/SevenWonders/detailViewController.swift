@@ -11,13 +11,11 @@ class detailViewController: UIViewController {
 
     @IBOutlet weak var lblDeatil: UILabel!
     
-    let detail = ["Wonders0", "Wonders1", "Wonders2", "Wonders3","Wonders4", "Wonders5", "Wonders6"]
-
+    var wondersDetail = ""
     
     override func viewDidLoad() {
         super.viewDidLoad()
-        lblDeatil.text = "Detail for \(detail)"
-        // Do any additional setup after loading the view.
+        lblDeatil.text = "This is \(wondersDetail)"
     }
     
 
