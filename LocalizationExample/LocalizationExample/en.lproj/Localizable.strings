@@ -1,0 +1,8 @@
+/* 
+  Localizable.strings
+  LocalizationExample
+
+  Created by Ruoxin Wang on 4/21/23.
+  
+*/
+"hello_world" = "Hello World";
